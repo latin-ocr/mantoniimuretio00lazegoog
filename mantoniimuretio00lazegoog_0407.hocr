@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mantoniimuretio00lazegoog_0407.png"; bbox 0 0 2934 5070; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 61 1523 1349 1718">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 61 1523 1349 1794">
+     <span class='ocr_line' id='line_1_1' title="bbox 61 1523 1349 1718; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 61 1523 707 1718; x_wconf 71' lang='lat' dir='ltr'>&#39;AUCTARIUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 755 1580 1189 1718; x_wconf 79' lang='lat' dir='ltr'>OPERUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1334 1539 1349 1624; x_wconf 81' lang='lat'><em>³</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 166 2101 1161 2267">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 166 2101 1161 2267">
+     <span class='ocr_line' id='line_1_2' title="bbox 166 2101 1161 2267; baseline -0.001 -27"><span class='ocrx_word' id='word_1_4' title='bbox 166 2104 169 2110; x_wconf 73' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 216 2153 318 2267; x_wconf 44' lang='grc' dir='ltr'><strong>ΑΜ.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 365 2151 688 2244; x_wconf 81' lang='lat' dir='ltr'>ANToNll</span> <span class='ocrx_word' id='word_1_7' title='bbox 723 2149 1029 2266; x_wconf 67' lang='lat' dir='ltr'><strong>Munw</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1158 2101 1161 2112; x_wconf 79' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1472 5070">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1472 5070">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1472 5070; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1472 5070; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
